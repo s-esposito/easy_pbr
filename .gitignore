@@ -1,0 +1,4 @@
+build
+libeasygl_cpp.so
+*.so
+easypbr.egg-info
